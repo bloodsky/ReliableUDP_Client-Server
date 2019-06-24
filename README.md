@@ -2,8 +2,8 @@
 A client-server application written in C which implements the Selective Repeat protocol for an reliable transmission with UDP as a transfer protocol
 
 ## Developed by:
-https://github.com/kambei
-https://github.com/bloodsky
+[Bovi Andrea](https://github.com/kambei)
+[Pavia Roberto](https://github.com/bloodsky)
 
 ## INSTALL:
 1) Make install.sh executable: ```$ chmod +x ./install.sh```
@@ -28,6 +28,6 @@ $ ./client <ip> <port> <win_len> <loss_prob> <timeout> [-v] [-t] [-vt]
 ```
 ### Example: 
 ```
-$ ./client 127.0.0.1 49300 10 0.4 30000 -v
+$ ./client 127.0.0.1 49300 10 0.5 1500 -v
 ```
 for HELP: ```$ ./client -h```
