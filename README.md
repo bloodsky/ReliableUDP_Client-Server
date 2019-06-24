@@ -1,9 +1,7 @@
 # ReliableUDP
 A client-server application written in C which implements the Selective Repeat protocol for an reliable transmission with UDP as a transfer protocol
 
-## Developed by:
-[Bovi Andrea](https://github.com/kambei)
-[Pavia Roberto](https://github.com/bloodsky)
+## Developed by: [Bovi Andrea](https://github.com/kambei) [Pavia Roberto](https://github.com/bloodsky)
 
 ## INSTALL:
 1) Make install.sh executable: ```$ chmod +x ./install.sh```
